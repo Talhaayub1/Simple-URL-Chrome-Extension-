@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "URL Saver",
+    "description": "A simple Chrome extension for tracking and saving leads or links.",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }, 
+    "permissions":[
+        "tabs"
+    ]
+}
